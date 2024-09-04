@@ -1,6 +1,6 @@
 ---
 name: astro
-version: b96c479fdbba0c4cba2fbbf31745ada3a11039f3
+version: af5bbc5f6b4f0a66113d7050a85824078ffaaeac
 type: git_submodule
 homepage: https://github.com/withastro/language-tools.git
 license: mit

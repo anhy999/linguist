@@ -1,6 +1,6 @@
 ---
 name: sublime-q
-version: cbe1f9d09576ab333b92e2404c270afc94ccde8c
+version: 236b80c1f32fbcb16d9ee7487a6f35b62a946af0
 type: git_submodule
 homepage: https://github.com/komsit37/sublime-q
 license: mit

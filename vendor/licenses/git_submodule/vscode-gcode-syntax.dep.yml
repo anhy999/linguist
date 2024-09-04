@@ -1,6 +1,6 @@
 ---
 name: vscode-gcode-syntax
-version: 13ba27dfdb2241f8380e446185faf72419a44c84
+version: 85465f621309c49d1a6f37767975be8171c37bc5
 type: git_submodule
 homepage: https://github.com/appliedengdesign/vscode-gcode-syntax
 license: mit

@@ -1,12 +1,12 @@
 ---
 name: vscode-codeql
-version: f559b59ee55a538289e4c04c81f1b863e991979b
+version: dffbcc28bb55e864aba3401d856f0aff4971ad15
 type: git_submodule
 homepage: https://github.com/github/vscode-codeql
 license: mit
 licenses:
 - sources: LICENSE.md
-  text: |-
+  text: |
     Copyright (c) 2019 GitHub, Inc.
 
     Permission is hereby granted, free of charge, to any person obtaining

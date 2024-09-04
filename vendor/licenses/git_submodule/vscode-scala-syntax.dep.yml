@@ -1,6 +1,6 @@
 ---
 name: vscode-scala-syntax
-version: fbd150832b5bef19b9e0d2994548c5f52b7e2be3
+version: fb73e8a0bfcd9a3c45f2c1b712e00c35865a9178
 type: git_submodule
 homepage: https://github.com/scala/vscode-scala-syntax
 license: other

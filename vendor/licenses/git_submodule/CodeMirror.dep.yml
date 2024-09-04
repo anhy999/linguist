@@ -1,6 +1,6 @@
 ---
 name: CodeMirror
-version: 482b7a45547175cabaa9fa68b31244625215a82a
+version: dd44c943cc25109d73041abb9f859581c4dec07a
 type: git_submodule
 homepage: https://github.com/codemirror/CodeMirror
 license: mit
@@ -9,7 +9,7 @@ licenses:
   text: |
     MIT License
 
-    Copyright (C) 2017 by Marijn Haverbeke <marijnh@gmail.com> and others
+    Copyright (C) 2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -157,6 +157,7 @@ notices:
     Billy Moon
     Bin Ni
     binny
+    Bjarki Ágúst Guðmundsson
     Bjorn Hansen
     B Krishna Chaitanya
     Blaine G
@@ -166,10 +167,12 @@ notices:
     Bo Peng
     borawjm
     Boris K
+    Boris Verkhovskiy
     Brad Metcalf
     Brandon Frohs
     Brandon Wamboldt
     Bret Little
+    Brett Morgan
     Brett Zamir
     Brian Grinstead
     BrianHung
@@ -248,6 +251,7 @@ notices:
     Dave MacLachlan
     Dave Myers
     David Barnett
+    David Foster
     David H. Bronke
     David Mignot
     David Pathakjee
@@ -269,6 +273,7 @@ notices:
     Dinindu D. Wanniarachchi
     dmaclach
     Dmitry Kiselyov
+    DoctorKrolic
     domagoj412
     Dominator008
     Domizio Demichelis
@@ -295,6 +300,7 @@ notices:
     Eric Allam
     Eric Bogard
     Erik Demaine
+    Erik Krogh Kristensen
     Erik Welander
     erosman
     eustas
@@ -303,6 +309,7 @@ notices:
     Fabien O'Carroll
     Fabio Zendhi Nagao
     Faiza Alsaied
+    Faris Masad
     Fauntleroy
     fbuchinger
     feizhang365
@@ -327,6 +334,8 @@ notices:
     fraxx001
     Fredrik Borg
     FUJI Goro (gfx)
+    fzipp
+    Gabriela Gutierrez
     Gabriel Gheorghian
     Gabriel Horner
     Gabriel Nahmias
@@ -368,6 +377,7 @@ notices:
     Harald Schilly
     Hardest
     Harshvardhan Gupta
+    Harutyun Amirjanyan
     Hasan Delibaş
     Hasan Karahan
     Heanes
@@ -487,6 +497,7 @@ notices:
     Joo
     Joost-Wim Boekesteijn
     José dBruxelles
+    Joseph D. Purcell
     Joseph Pecoraro
     Josh Barnes
     Josh Cohen
@@ -530,6 +541,7 @@ notices:
     Klaus Silveira
     Koh Zi Han, Cliff
     komakino
+    kometenstaub
     Konrad Zapotoczny
     Konstantin Chernenko
     Konstantin Lopuhin
@@ -741,6 +753,7 @@ notices:
     paris
     Paris
     Paris Kasidiaris
+    Parker Lougheed
     Patil Arpith
     Patrick Kettner
     Patrick Stoica
@@ -768,6 +781,7 @@ notices:
     Pierre Gerold
     Pieter Ouwerkerk
     Piyush
+    Pontus Granström
     Pontus Melke
     prasanthj
     Prasanth J
@@ -822,6 +836,7 @@ notices:
     sabaca
     sach.gupta
     Sachin Gupta
+    sahil.mahna
     Sam Lee
     Sam Rawlins
     Samuel Ainsworth
@@ -919,6 +934,7 @@ notices:
     Thomas Schmid
     Tim Alby
     Tim Baumann
+    Tim Down
     Tim Gates
     Tim Nguyen
     Timothy Farrell
@@ -958,6 +974,7 @@ notices:
     vf
     Victor Bocharsky
     Vincent Woo
+    Vladislav Voitenok
     Volker Mische
     vtripolitakis
     wdouglashall
@@ -978,12 +995,14 @@ notices:
     wonderboyjon
     Wu Cheng-Han
     Xavier Mendez
+    Yakov Manshin
     Yang Guo
     Yash Singh
     Yash-Singh1
     Yassin N. Hassan
     YNH Webdev
     yoongu
+    yoyoyodog123
     Yunchi Luo
     Yuvi Panda
     Yvonnick Esnault
